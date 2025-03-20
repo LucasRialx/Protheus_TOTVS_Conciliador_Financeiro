@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# Projeto desenvolvido por Lucas Rial
+# Copyright (c) 2025 Lucas Rial. Todos os direitos reservados.
+
 import os
 import pandas as pd
 import re
