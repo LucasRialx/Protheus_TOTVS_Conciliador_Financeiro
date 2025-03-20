@@ -24,8 +24,44 @@ A estrutura do projeto é organizada da seguinte forma:
 
 ```
 Protheus_Conciliador/
-│-- Processador.py  # Script principal que executa os scripts financeiros
-│-- Script/         # Pasta contendo os scripts de processamento
+
+AutomacaoFinanceiro
+│
+├── ArquivosGerados
+│   ├── CONTABIL
+│   │   ├── DATABASE_BALANCETE_CLIENTE.xlsx
+│   │   ├── DATABASE_BALANCETE_FORNECEDOR.xlsx
+│   │
+│   ├── FINANCEIRO
+│   │   ├── ADT_CLIENTES_TITULOS_A_RECEBER.xlsx
+│   │   ├── ADT_FORN_TITULOS_A_PAGAR.xlsx
+│   │   ├── ADT_VIAGEM_TITULOS_A_PAGAR.xlsx
+│   │   ├── CLIENTES_TITULOS_A_RECEBER.xlsx
+│   │   ├── FORN_TITULOS_A_PAGAR.xlsx
+│
+├── Resultado
+│   ├── ~$RESULTADO_FORNECEDOR.xlsx
+│   ├── RESULTADO_ADT_CLIENTES.xlsx
+│   ├── RESULTADO_ADT_FORNECEDOR.xlsx
+│   ├── RESULTADO_ADT_VIAGEM.xlsx
+│   ├── RESULTADO_CLIENTES.xlsx
+│   ├── RESULTADO_FORNECEDOR.xlsx
+│
+├── Script
+│   ├── ConflitoAdtCliente.py
+│   ├── ConflitoAdtFornecedor.py
+│   ├── ConflitoAdtViagem.py
+│   ├── ConflitoCliente.py
+│   ├── ConflitoFornecedor.py
+│   ├── TratamentoContabil.py
+│   ├── TratamentoFinanceiroAdtCliente.py
+│   ├── TratamentoFinanceiroAdtFornecedor.py
+│   ├── TratamentoFinanceiroAdtViagem.py
+│   ├── TratamentoFinanceiroClientes.py
+│   ├── TratamentoFinanceiroFornecedor.py
+│
+├── Processador.py
+
 ```
 
 ### Scripts Disponíveis
