@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# Projeto desenvolvido por Lucas Rial
+# Copyright (c) 2025 Lucas Rial. Todos os direitos reservados.
+
 import subprocess
 import os
 import time  # Importa o módulo time para usar a função sleep
