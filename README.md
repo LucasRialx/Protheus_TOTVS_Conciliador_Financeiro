@@ -122,9 +122,8 @@ O resultado é o apontamento de quais Fornecedores apresentam inconsistência en
   - `os`
   - `time`
 
-## Autor
-
-- **Lucas Rial**
+## Aviso de Direitos Autorais
+Este projeto foi desenvolvido por **Lucas Rial**. O código é de propriedade exclusiva de Lucas Rial e está licenciado sob a **Licença MIT**. A reutilização do código é permitida, desde que a autoria seja devidamente reconhecida. Se você utilizar ou modificar este código, deve incluir uma referência a **Lucas Rial** em qualquer distribuição ou derivação.
 
 ## Licença
 
