@@ -40,7 +40,7 @@ AutomacaoFinanceiro
 │   │   ├── FORN_TITULOS_A_PAGAR.xlsx
 │
 ├── Resultado
-│   ├── ~$RESULTADO_FORNECEDOR.xlsx
+│   ├── RESULTADO_FORNECEDOR.xlsx
 │   ├── RESULTADO_ADT_CLIENTES.xlsx
 │   ├── RESULTADO_ADT_FORNECEDOR.xlsx
 │   ├── RESULTADO_ADT_VIAGEM.xlsx
